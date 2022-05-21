@@ -1,0 +1,17 @@
+{
+    "name": "workspace/design-patterns",
+    "description": "Example of design pattern in PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Workspace\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "irhamsahbana",
+            "email": "irhamsahbana@gmail.com"
+        }
+    ],
+    "require": {}
+}
